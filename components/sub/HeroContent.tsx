@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          A&apos;n all-in-one platform offering AI workspace tools, video streaming,
+          An all-in-one platform offering AI workspace tools, video streaming,
           a digital marketplace, seamless collaboration through CollabHub and much more.
           
         </motion.p>
