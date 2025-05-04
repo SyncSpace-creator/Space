@@ -34,7 +34,7 @@ const HeroContent = () => {
         >
           <span>
             Providing
-            <span class="gradient">
+            <span class=".gradient">
               {" "}
               the best{" "}
             </span>
