@@ -24,7 +24,7 @@ const Projects = () => {
         />
         
         <ProjectCard
-          src="/SpaceWebsite.png"
+          src="AiWorkspace.jpeg"
           title="Workspace"
           description="Access powerful AI tools for writing, design, coding, and more, streamlined workspace built for productivity."
         />
