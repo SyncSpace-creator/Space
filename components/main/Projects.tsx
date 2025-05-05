@@ -21,7 +21,9 @@ const Projects = () => {
         <ProjectCard
           src="/CardImage.png"
           title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Buy and sell anything from digital downloads to physical goods – all in one platform. Easy, secure, and built for creators and entrepreneurs.
+
+"
         />
         <ProjectCard
           src="/SpaceWebsite.png"
