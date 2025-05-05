@@ -13,23 +13,22 @@ const Projects = () => {
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
           src="/NextWebsite.png"
-          title="Video Streaming"
-          description="Discover a world of unlimited entertainment at your fingertips. Enjoy seamless playback, personalized recommendations, and instant access to the content you love – anytime, anywhere. Join our community and stream smarter today!
-
-"
+          title="Stream Anytime, Anywhere"
+          description="Enjoy seamless playback, personalized recommendations, and instant access to the content you love – anytime, anywhere. Join nowand stream smarter today!"
         />
+        
         <ProjectCard
           src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Buy and sell anything from digital downloads to physical goods – all in one platform. Easy, secure, and built for creators and entrepreneurs.
-
-"
+          title="Marketplace"
+          description="Buy and sell anything from digital downloads to physical goods. Easy, secure, and built for creators and entrepreneurs."
         />
+        
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Workspace"
+          description="Access powerful AI tools for writing, design, coding, and more, streamlined workspace built for productivity."
         />
+        
       </div>
     </div>
   );
