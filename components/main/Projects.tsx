@@ -18,13 +18,13 @@ const Projects = () => {
         />
         
         <ProjectCard
-          src="/CardImage.png"
+          src="/Marketplace.jpeg"
           title="Marketplace"
           description="Buy and sell anything from digital downloads to physical goods. Easy, secure, and built for creators and entrepreneurs."
         />
         
         <ProjectCard
-          src="AiWorkspace.jpeg"
+          src="/AiWorkspace.jpeg"
           title="Workspace"
           description="Access powerful AI tools for writing, design, coding, and more, streamlined workspace built for productivity."
         />
